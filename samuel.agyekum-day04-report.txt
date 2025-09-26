@@ -1,0 +1,50 @@
+man git
+  760  git config --global user.name "Samuel"
+  761  ls
+  762  git config --global user.email "samuel.agyekum@aims.ac.rw"
+  763  git init
+  764  cd ../
+  765  pwd
+  766  cd ../
+  767  pwd
+  768  cd ../
+  769  mkdir simplestats
+  770  ls
+  771  cp josue
+  772  cd samuel/
+  773  mkdir simplestats
+  774  cd simplestats/
+  775  git init
+  776  empty Git repository in /home/samuel/simplestats/.git/
+  777  ls
+  778  pwd
+  779  ls -A .git
+  780  cd .git
+  781  ls -A
+  782  nano description
+  783  tree.git
+  784  tree
+  785  git.status
+  786  git status
+  787  cd ../
+  788  touch Readme.md
+  789  git.status
+  790  git status
+  791  git add Readme.md
+  792  git status
+  793  git commit -am "This is the first commit. It adds a readme file." 
+  794  git status
+  795  git diff
+  796  git diff --stat
+  797  git diff HEAD -- [path]
+  798  nano Readme.md
+  799  git commit
+  800  git add
+  801  git add .
+  802  git commit
+  803  nano Readme.md
+  804  git add.
+  805  git commit
+  806  git add.
+  807  git diff
+  808  git log
